@@ -1,0 +1,6 @@
+git add - adiciona arquivos ao ambiente de stage.
+git commit - m "comentários" - realiza as gravações das modificações(criação de um snaphot atual do projeto)
+git push - "empurra" as modificações ao repositório remoto.
+git status - visualização de arquivos ratreados pelo git e modificações a realizar.
+git init - iniciar um repositório
+git clone - clona um repositório
